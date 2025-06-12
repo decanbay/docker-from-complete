@@ -1,4 +1,4 @@
-<img src="assets/icon.png" alt="" style="height: 4em; vertical-align: middle;">
+# ![icon](assets/icon.resized.png)Docker FROM Complete
 
 A VS Code extension that provides intelligent autocomplete suggestions for Docker base images when editing Dockerfiles. Get suggestions directly from DockerHub with rich hover information, sorted by popularity just like the DockerHub website.
 
@@ -48,7 +48,7 @@ ext install DenizEkinCanbay.docker-from-complete
 **Image Search:**
 
 ```dockerfile
-FROM ub    
+FROM ub  
 FROM node  
 FROM python  
 ```
