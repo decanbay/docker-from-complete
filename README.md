@@ -1,10 +1,8 @@
-# <img src="assets/logo.png" alt="logo" style="height: 3em; vertical-align: middle;">  Docker FROM Complete
-
+<img src="assets/icon.png" alt="" style="height: 4em; vertical-align: middle;">
 
 A VS Code extension that provides intelligent autocomplete suggestions for Docker base images when editing Dockerfiles. Get suggestions directly from DockerHub with rich hover information, sorted by popularity just like the DockerHub website.
 
 ![](assets/Demo.gif)
-
 
 ## Installation
 
@@ -13,6 +11,7 @@ Install from the VS Code marketplace or run:
 ```
 ext install DenizEkinCanbay.docker-from-complete
 ```
+
 ## Features
 
 **Smart Image Search**: Type `FROM ub` and get suggestions like `ubuntu`, `ubuntu/apache2`, etc.
@@ -49,8 +48,8 @@ ext install DenizEkinCanbay.docker-from-complete
 **Image Search:**
 
 ```dockerfile
-FROM ub      
-FROM node    
+FROM ub    
+FROM node  
 FROM python  
 ```
 
@@ -66,7 +65,6 @@ FROM node:
 - VS Code 1.100.0 or higher
 - Internet connection for DockerHub API access
 
-
 ## Extension Settings
 
 This extension works out of the box with no configuration required.
@@ -77,7 +75,7 @@ This extension works out of the box with no configuration required.
 
 ## Release Notes
 
-### 1.0.2
+### 1.0.1
 
 Initial release featuring:
 
@@ -91,7 +89,8 @@ Initial release featuring:
 
 Found a bug or have a feature request? Please open an issue.
 
+[github.com/decanbay/docker-from-complete](https://github.com/decanbay/docker-from-complete)
+
 ## License
 
 MIT License - see LICENSE file for details.
-
