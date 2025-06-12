@@ -1,8 +1,9 @@
-# Docker FROM Complete
+# <img src="assets/logo.png" alt="logo" style="height: 3em; vertical-align: middle;">  Docker FROM Complete
+
 
 A VS Code extension that provides intelligent autocomplete suggestions for Docker base images when editing Dockerfiles. Get suggestions directly from DockerHub with rich hover information, sorted by popularity just like the DockerHub website.
 
-![](Demo.gif)
+![](assets/Demo.gif)
 
 
 ## Installation
@@ -84,7 +85,7 @@ Initial release featuring:
 - Tag completion for specific images
 - Rich hover information with image details
 - Popularity-based sorting
-- Performance optimizations with caching
+- Performance optimisations with caching
 
 ## Contributing
 
