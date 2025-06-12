@@ -75,7 +75,7 @@ This extension works out of the box with no configuration required.
 
 ## Release Notes
 
-### 1.0.1
+### 1.0.2
 
 Initial release featuring:
 
